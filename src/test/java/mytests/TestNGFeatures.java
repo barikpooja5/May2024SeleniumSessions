@@ -35,7 +35,6 @@ public class TestNGFeatures {
 	//1
 	@BeforeSuite
 	public void connentWithDB() {
-		int i =10;
 		System.out.println("BS - connentWithDB");
 		System.out.println("BS - connectWithAPI");
 	}
